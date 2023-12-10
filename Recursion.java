@@ -1,13 +1,3 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- */
-
-package com.mycompany.recursion;
-
-/**
- *
- * @author eizel
- */
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Iterator;
